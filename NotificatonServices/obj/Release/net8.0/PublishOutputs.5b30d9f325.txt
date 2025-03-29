@@ -1,0 +1,11 @@
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\NotificatonServices.exe
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\NotificatonServices.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\NotificatonServices.deps.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\NotificatonServices.runtimeconfig.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\NotificatonServices.pdb
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\NotificationMicroservices\NotificatonServices\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

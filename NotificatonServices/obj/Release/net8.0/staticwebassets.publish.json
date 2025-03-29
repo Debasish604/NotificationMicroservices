@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wmLI65nvNy1aZw0wpll5Ogp0owIbwrnQBPWBAWamTH0=",
+  "Source": "NotificatonServices",
+  "BasePath": "_content/NotificatonServices",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
